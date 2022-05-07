@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hello, this is the public repository for the Garragames project pages, here you will find the content related to the extensions we have for MakeCode and Scratch, and our platforms OttoScratch AI, Otto Blockly Web and GARRAX&reg;.
 <!--
 **garragames/garragames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
